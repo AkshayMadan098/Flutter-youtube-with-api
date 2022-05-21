@@ -119,11 +119,7 @@ class _MyHomePageState extends State<MyHomePage> {
         )
       ]
       ,),
-      body:
- 
-     _widgetOptions.elementAt(_currentIndex)
-  
-
+      body: _widgetOptions.elementAt(_currentIndex)
     );
   }
  
